@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Kurz
+Comment=Currency converter, e.g. "500 EUR to UAH"
+Icon=accessories-calculator
+Type=Service
+X-KDE-ServiceTypes=Plasma/Runner
+X-KDE-PluginInfo-Name=kurz
+X-KDE-PluginInfo-Author=indiwine
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-API-Minimum-Version=2.0
+X-Plasma-DBusRunner-Service=dev.indiwine.Kurz
+X-Plasma-DBusRunner-Path=/kurz
+X-Plasma-Runner-Min-Letter-Count=4
